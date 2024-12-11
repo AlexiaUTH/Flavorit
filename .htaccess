@@ -1,0 +1,12 @@
+# Désactivation de la navigation dans les répertoires
+Options All -Indexes
+
+# Activation du moteur de réécriture d'URL
+RewriteEngine On 
+
+# On force l'utilisation du protocole HTTPS
+RewriteCond %{HTTPS} off 
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Redirection vers une page 404 personnalisée
+ErrorDocument 404 /error_404.php
