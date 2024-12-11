@@ -1,0 +1,6 @@
+
+.DS_Store
+config/database.php
+config/app.php
+php.ini
+.htaccess
