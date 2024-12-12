@@ -1,6 +1,7 @@
 # Flavor’it
 
 ## LE LIEN POUR ACCEDER A LA PLATEFORME WEB : 
+Il manque le dossier "asssets" (à ajouter dans le github) + voir comment lier php et github.io
 ## Qu'est-ce que Flavor’it ?
 
 [Flavor’it](https://flavorit.fr) est une plateforme en ligne développée en PHP pour des boulangeries souhaitant s'orienter vers de la livraison à domicile.
