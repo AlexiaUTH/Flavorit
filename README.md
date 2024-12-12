@@ -1,6 +1,6 @@
 # Flavor’it
 
-## LE LIEN POUR ACCEDER A LA PLATEFORME WEB : 
+## LE LIEN POUR ACCEDER A LA PLATEFORME WEB : https://alexiauth.github.io/index.php
 Il manque le dossier "asssets" (à ajouter dans le github) + voir comment lier php et github.io
 ## Qu'est-ce que Flavor’it ?
 
